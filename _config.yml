@@ -61,7 +61,7 @@ address:
   - line: Nanjing jiangbei new area  
 
 # Credits content
-credits: 'Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ' Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
